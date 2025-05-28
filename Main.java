@@ -21,5 +21,7 @@ public class Main {
 
         for(Car car : Kontener)
             System.out.println(car);
+
+
     }
 }
